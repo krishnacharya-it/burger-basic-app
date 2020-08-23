@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![alt text](https://github.com/krishnacharya-it/burger-basic-app/blob/master/Screenshot%20from%202020-08-23%2008-42-15.png) 
 ## Available Scripts
 
 In the project directory, you can run:
